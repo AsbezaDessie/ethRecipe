@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Agelgil/luchbox'),
+        title: Text('Agelgil አገልግል Combo'),
         centerTitle: true,
         backgroundColor: Color.fromARGB(255, 197, 136, 202),
         actions: <Widget>[

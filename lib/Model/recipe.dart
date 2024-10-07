@@ -80,21 +80,43 @@ final List<Recipe> recipes = [
     ],
   ),
   Recipe(
-    title: 'Kitfo/Steak tartare',
-    description: 'Kitfo literally means chopped or minced beef. ',
-    image: 'assets/images/kitfo.jpg',
+    title: 'Atakilt Wat/Vegan stew',
+    description: 'Ethiopian vegan stew Cabbage, carrots and potatoes',
+    image: 'assets/images/gomen.jpeg',
     ingredients: [
-      '3 lbs beef, freshly grounded (without fat)',
-      '¼ cup niter kibbeh (Ethiopian clarified butter)',
-      '2 tablespoons mitmita (Ethiopian spiced chile blend)',
-      '1/2 teaspoon ground korerima (black cardamom)',
+      '2 tsp oil',
+      '3 cloves garlic, minced',
+      '1/2 white onion, diced',
+      '1/2 head of cabbage, finely chopped',
+      '3 medium carrots, sliced',
+      '2 medium white potatoes, cubed',
+      '1/2 tsp salt'
+    ],
+    instructions: [
+      'Heat 1 teaspoon of oil in a frying pan',
+      'Add carrots, potato, cabbage and salt',
+      'Serve hot with injera flat bread'
+    ],
+  ),
+  Recipe(
+    title: 'Misir Wat/Ethiopian Lentils',
+    description:
+        'cooked in a stew, and seasoned with Ethiopian Berbere spice or Turmeric. ',
+    image: 'assets/images/misirwot.png',
+    ingredients: [
+      '1 cup red lentils',
+      '3 tablespoons oil',
+      '2 Onion finely chopped',
+      '1 tomato , chopped',
+      '2 tablespoons berbere',
       '1/4 teaspoon fine salt'
     ],
     instructions: [
-      'Cut the beef into thin slices, trim any fat and then mince into very small cubes',
-      'Melt the kibbeh in a medium skillet over very low heat',
-      'Add the mitmita, korerima, and salt and stir with the butter. ',
-      'Then, add the minced beef and mash to mix it with the spiced butter',
+      'Heat oil in a large pot over medium heat. ',
+      'Add the onions and cook for 5 - 6 minutes until softened.',
+      'Add the garlic, tomatoes, and 1 tablespoon of berebe. ',
+      'Then, Add the red lentils, 1/4 cup of water, and a pinch of salt',
+      'Cook for 35 - 40 minutes until the lentils are soft and tender',
       'Serve with  cottage cheese, Gomen Kitfo and injera.'
     ],
   )
