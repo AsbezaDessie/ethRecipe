@@ -1,6 +1,8 @@
 # eth_recipe
 
-A new Flutter project.
+Agelgil Flutter project.
+
+Agelgil which was commonly used in Ethiopia as a kind of “lunch or hot box” was made to carry Injera.
 
 ## Getting Started
 
